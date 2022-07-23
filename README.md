@@ -1,6 +1,6 @@
-# maze-vue3-daisyui
+# maze-typescript-vue3-daisyui
 A maze game.
-```sh
+```bash
 pnpm install
 pnpm dev
 ```
