@@ -3,5 +3,5 @@
 ## Installation
 ```sh
 pnpm install
-pnpm dev
+pnpm run dev
 ```
